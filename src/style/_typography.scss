@@ -1,0 +1,10 @@
+@mixin heading1 {
+  font-family: DINOT;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+@mixin body1 {
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+}

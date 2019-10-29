@@ -1,0 +1,7 @@
+@import '../../style/resources';
+
+.message {
+  // test css modules
+  composes: global(brownMessage);
+  @include body1;
+}
